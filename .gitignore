@@ -174,4 +174,6 @@ xcuserdata
 !*.xcworkspace/contents.xcworkspacedata
 **/xcshareddata/WorkspaceSettings.xcsettings
 
+/.vendor/bundle
+
 # End of https://www.toptal.com/developers/gitignore/api/swift,swiftpackagemanager,swiftpm,macos,fastlane,xcode,cocoapods,carthage
